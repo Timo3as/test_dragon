@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "My super cool new Threat Model",
+    "owner": "me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "New Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "NOBODY!!11"
+  }
+}
